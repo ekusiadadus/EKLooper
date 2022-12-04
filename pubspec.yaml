@@ -32,10 +32,12 @@ dependencies:
   flutter:
     sdk: flutter
   get: ^4.6.5
-  firebase_core: ^2.1.1
-  firebase_auth: ^4.1.1
-  cloud_firestore: ^4.0.4
-  firebase_storage: ^11.0.4
+  firebase_core: ^2.3.0
+  firebase_auth: ^4.1.5
+  cloud_firestore: ^4.1.0
+  firebase_storage: ^11.0.6
+  audioplayers: ^1.1.1
+  permission_handler: ^10.2.0
 
 
 
